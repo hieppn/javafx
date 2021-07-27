@@ -1,0 +1,35 @@
+.scene{
+	 -fx-background-image: url("hh5.jpg");
+	 -fx-background-repeat: no-repeat ;
+}
+
+.caption {
+   -fx-text-fill        :#FF0000;
+   	  -fx-font: 23px ".VnBodoniH";
+  
+    }
+ .scene2{
+	
+	 -fx-background-image: url("hh5.jpg");
+	  -fx-background-repeat: no-repeat ;
+	 
+}  
+
+.leader{
+	 -fx-text-fill        :#FF0000;
+	  -fx-font: 23px ".VnBodoniH";
+	 
+}
+.message{
+	 -fx-text-fill        :#550000;
+	 
+} 
+
+.scene3{
+	
+	 -fx-background-image: url("member.jpg");
+	  -fx-background-repeat: no-repeat ;
+	 
+}  
+
+

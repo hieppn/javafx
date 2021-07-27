@@ -1,0 +1,177 @@
+.button1{
+	-fx-text-fill: #000000;
+	-fx-border-radius: 100.0;
+	-fx-background-radius: 20;
+	-fx-background-color:#FFCCCC;
+	-fx-font: bold italic 10.0pt "Verdana";
+	-fx-padding: 5;
+	-fx-border-color: rgb(49, 89, 23);
+	-fx-alignment: TOP-CENTER;
+	-fx-pref-height: 30;
+	-fx-pref-width: 180;
+	
+}
+
+.login{
+	-fx-background-color:#EEEEEE	;
+	
+}
+.text1{
+	-fx-text-fill: #000000;
+	-fx-border-radius: 100.0;
+	-fx-background-radius: 20;
+	-fx-font:10.0pt "Verdana";
+	-fx-padding: 3;
+	-fx-border-color: rgb(49, 89, 23);
+	-fx-pref-height: 40;
+	-fx-pref-width: 250;
+	
+}
+.caption{
+	-fx-font: bold 20.0pt "Verdana";
+	-fx-alignment: CENTER;
+	-fx-padding: 20 20 20 20;
+	
+	
+}
+.label1{
+		-fx-pref-height: 45;
+	
+}
+.label{
+			-fx-alignment: center;
+	
+}
+
+/********************************************************************************* */
+
+.label2{
+		-fx-pref-width:  130;
+		-fx-font:  10.0pt "Verdana";
+		-fx-padding: 5;
+}
+.text2{
+		-fx-pref-width:  220;
+		-fx-font: 10.0pt "Verdana";
+	
+}
+.button2{
+	-fx-text-fill: #000000;
+	-fx-background-color:#FFCCCC;
+	-fx-border-radius: 200.0;
+	-fx-background-radius: 20;
+	-fx-font: 10.0pt "Verdana";
+	-fx-padding: 5;
+	-fx-border-color: rgb(49, 89, 23);
+	-fx-alignment: top-center ;
+	-fx-pref-height: 25;
+	-fx-pref-width: 60;
+	
+}
+.project{
+	-fx-background-color:#B0E2FF;
+	
+}
+.column1{
+	-fx-pref-width: 120;
+	
+	
+}
+.vbox1{
+		-fx-padding: 10 20 10 20;
+		-fx-alignment: top-right  ;
+	
+}
+.hbox1{
+	-fx-padding: 10 0 10 10;
+	-fx-alignment: top-right  ;
+	
+}
+/************************************************************************** */
+
+.label3{
+		-fx-pref-width:  130;
+		-fx-font:  11.0pt "Verdana";
+		-fx-alignment: top-left ;
+	
+}
+.text3{
+		-fx-pref-width:  250;
+		-fx-font: 11.0pt "Verdana";
+	
+}
+.button3{
+	-fx-text-fill: #000000;
+	-fx-background-color:#FFCCCC;
+	-fx-border-radius: 200.0;
+	-fx-background-radius: 20;
+	-fx-font: 10.0pt "Verdana";
+	-fx-padding: 5;
+	-fx-border-color: rgb(49, 89, 23);
+	-fx-alignment: top-center ;
+	-fx-pref-height: 25;
+	-fx-pref-width: 60;
+	
+}
+.hbox2{
+	-fx-padding: 10 20 10 10;
+	-fx-alignment: top-right
+}
+.vbox2{
+		-fx-padding: 10 20 10 20;
+		-fx-alignment: top-right  ;
+	
+}
+.newMember{
+	-fx-background-color:#CCFFFF;
+
+
+}
+.radioButton{
+		-fx-font: 10.0pt "Verdana";
+	
+	
+}
+.newLeader{
+	-fx-background-color: #CCFFFF;
+}
+
+
+
+
+.button4{
+	-fx-text-fill: #000000;
+	-fx-background-color:#FFCCCC;
+	-fx-border-radius: 200.0;
+	-fx-background-radius: 20;
+	-fx-font: 10.0pt "Verdana";
+	-fx-padding: 5;
+	-fx-border-color: rgb(49, 89, 23);
+	-fx-alignment: top-center ;
+	-fx-pref-height: 25;
+	-fx-pref-width: 80;
+	
+}
+
+.hbox3{
+	/*-fx-padding: 10 20 10 10;*/
+	
+	-fx-alignment: center;
+}
+
+.caption1{
+	
+	-fx-font: bold 20.0pt "Verdana";
+	-fx-text-fill : #FF0000;
+	-fx-alignment: CENTER;
+	-fx-padding: 0 100 0 0;
+	
+	
+}
+
+
+
+
+
+
+
